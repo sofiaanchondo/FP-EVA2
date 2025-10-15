@@ -28,6 +28,23 @@ public class EVA2_14_CAPTURA {
     //LEER
     for(int i = 0; i < califa.length; i++){
     System.out.println("[" + califa[i] + "]");
+    }
+    int suma = 0;
+    // sumar todas las califi
+    for(int i = 0; i < califa.length; i++){
+    suma = suma + califa[i];
+    // SUMA += CALIFA[1];
+    }
+    double promedio = suma / (double)tama;  
+    System.out.println("promedio = " + promedio);
+    
+    
+    
+    
+    
+    
+    {
+  
     
     
     
